@@ -1,9 +1,10 @@
 github:
-  description: "Apache NetBeans Website"
-  homepage: "https://netbeans.apache.org/"
+  description: "Apache NetBeans Antora Preview"
+  homepage: "https://netbeans-antora.staged.apache.org/"
   labels:
     - netbeans
     - website
-    - jbake
-publish:
-  whoami: asf-site
+    - antora
+staging:
+  profile: antora # See https://cwiki.apache.org/confluence/display/INFRA/git+-+.asf.yaml+features#Git.asf.yamlfeatures-Stagingawebsitepreviewdomain
+  whoami: asf-staging
