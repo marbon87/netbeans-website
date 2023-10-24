@@ -7,10 +7,10 @@
   <link rel="self" type="application/atom+xml" href="https://netbeans.apache.org/blogs/atom" />
   <link rel="alternate" type="text/html" href="https://netbeans.apache.org/blogs/atom" />
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-19-released.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-19-released/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 19 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-19-released.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-19-released/"/>
     <published>2023-09-01T00:00:00Z</published>
     <updated>2023-09-01T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -29,7 +29,7 @@
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb19/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 19 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb19/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 19 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;See our release schedule:&lt;/p&gt;
@@ -52,10 +52,10 @@
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-18-released.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-18-released/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 18 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-18-released.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-18-released/"/>
     <published>2023-06-01T00:00:00Z</published>
     <updated>2023-06-01T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -74,7 +74,7 @@
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb18/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 18 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb18/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 18 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;See our release schedule:&lt;/p&gt;
@@ -97,10 +97,10 @@
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-17-released.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-17-released/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 17 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-17-released.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-17-released/"/>
     <published>2023-02-21T00:00:00Z</published>
     <updated>2023-02-21T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -119,7 +119,7 @@
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb17/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 17 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb17/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 17 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;See our release schedule:&lt;/p&gt;
@@ -142,10 +142,10 @@
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-16-released.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-16-released/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 16 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-16-released.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-16-released/"/>
     <published>2022-12-15T00:00:00Z</published>
     <updated>2022-12-15T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -164,7 +164,7 @@
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb16/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 16 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb16/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 16 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;See our release schedule:&lt;/p&gt;
@@ -187,10 +187,10 @@
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/towards-fair-trade-for-foss.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/towards-fair-trade-for-foss/</id>
     <title type="html">Towards Fair Trade for FOSS</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/towards-fair-trade-for-foss.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/towards-fair-trade-for-foss/"/>
     <published>2022-12-03T00:00:00Z</published>
     <updated>2022-12-03T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -204,7 +204,7 @@ to attend the European Commission&amp;#8217;s &lt;a href=&quot;https://ec.europa
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Aside from my many years of involvement in the context of open source,
-in particular in the context of &lt;a href=&quot;../../index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans&lt;/a&gt; and the &lt;a href=&quot;https://foojay.io/&quot;&gt;Friends of OpenJDK&lt;/a&gt;,
+in particular in the context of &lt;a href=&quot;../../../&quot; class=&quot;xref page&quot;&gt;Apache NetBeans&lt;/a&gt; and the &lt;a href=&quot;https://foojay.io/&quot;&gt;Friends of OpenJDK&lt;/a&gt;,
 I recently completed my LL.M Masters of Law at the University of Amsterdam in European Union Law
 (25 years after completing my LL.B Bachelor of Law in South Africa) especially because,
 aside from the academic side of it, I wanted to finally understand how the EU actually works,
@@ -213,7 +213,7 @@ with all its institutions, etc, and, though I can&amp;#8217;t say I really have 
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/towards-fair-trade-for-foss-pic1.png&quot; alt=&quot;towards fair trade for foss pic1&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/towards-fair-trade-for-foss-pic1.png&quot; alt=&quot;towards fair trade for foss pic1&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -226,7 +226,7 @@ NGOs, local administrations, governments, etc, from within the EU and beyond.&lt
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/towards-fair-trade-for-foss-pic2.png&quot; alt=&quot;towards fair trade for foss pic2&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/towards-fair-trade-for-foss-pic2.png&quot; alt=&quot;towards fair trade for foss pic2&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -236,7 +236,7 @@ on the most important topics to carry forward and recommend to the European Comm
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/towards-fair-trade-for-foss-pic3.png&quot; alt=&quot;towards fair trade for foss pic3&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/towards-fair-trade-for-foss-pic3.png&quot; alt=&quot;towards fair trade for foss pic3&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -292,10 +292,10 @@ and though it may not solve everything (that would be an unfair standard for any
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-pub-hangout-in-prague.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-pub-hangout-in-prague/</id>
     <title type="html">NetBeans Pub Hangout in Prague</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-pub-hangout-in-prague.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-pub-hangout-in-prague/"/>
     <published>2022-10-24T00:00:00Z</published>
     <updated>2022-10-24T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -310,16 +310,16 @@ ideally in a pub, which is also where NetBeans started.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/netbeans-pub-hangout-in-prague-pic1.png&quot; alt=&quot;netbeans pub hangout in prague pic1&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/netbeans-pub-hangout-in-prague-pic1.png&quot; alt=&quot;netbeans pub hangout in prague pic1&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-15-released.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-15-released/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 15 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-15-released.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-15-released/"/>
     <published>2022-09-07T00:00:00Z</published>
     <updated>2022-09-07T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -338,7 +338,7 @@ ideally in a pub, which is also where NetBeans started.&lt;/p&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb15/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 15 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb15/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 15 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;See our release schedule:&lt;/p&gt;
@@ -361,10 +361,10 @@ ideally in a pub, which is also where NetBeans started.&lt;/p&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-14-released.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-14-released/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 14 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-14-released.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-14-released/"/>
     <published>2022-06-17T00:00:00Z</published>
     <updated>2022-06-17T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -383,7 +383,7 @@ ideally in a pub, which is also where NetBeans started.&lt;/p&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb14/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 14 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb14/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 14 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;See our release schedule:&lt;/p&gt;
@@ -406,10 +406,10 @@ ideally in a pub, which is also where NetBeans started.&lt;/p&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-13-released.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-13-released/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 13 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-13-released.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-13-released/"/>
     <published>2022-03-04T00:00:00Z</published>
     <updated>2022-03-04T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -425,13 +425,13 @@ ideally in a pub, which is also where NetBeans started.&lt;/p&gt;
 &lt;p&gt;New &amp;amp; noteworthy features of the 13 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb13/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 13 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb13/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 13 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb13/nb13.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 13 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb13/nb13/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 13 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Feel free to share the good news!&lt;/p&gt;
@@ -451,10 +451,10 @@ ideally in a pub, which is also where NetBeans started.&lt;/p&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/log4j-and-apache-netbeans.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/log4j-and-apache-netbeans/</id>
     <title type="html">Log4j and Apache NetBeans</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/log4j-and-apache-netbeans.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/log4j-and-apache-netbeans/"/>
     <published>2022-01-04T00:00:00Z</published>
     <updated>2022-01-04T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -471,10 +471,10 @@ We do not believe any vulnerability in Log4j v1 is exploitable in Apache NetBean
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-6.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-6/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 12.6 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-6.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-6/"/>
     <published>2021-12-06T00:00:00Z</published>
     <updated>2021-12-06T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -490,13 +490,13 @@ We do not believe any vulnerability in Log4j v1 is exploitable in Apache NetBean
 &lt;p&gt;New &amp;amp; noteworthy features of the 12.6 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb126/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.6 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb126/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.6 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb126/nb126.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.6 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb126/nb126/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.6 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Feel free to share the good news!&lt;/p&gt;
@@ -516,10 +516,10 @@ We do not believe any vulnerability in Log4j v1 is exploitable in Apache NetBean
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-5.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-5/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 12.5 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-5.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-5/"/>
     <published>2021-09-21T00:00:00Z</published>
     <updated>2021-09-21T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -535,13 +535,13 @@ We do not believe any vulnerability in Log4j v1 is exploitable in Apache NetBean
 &lt;p&gt;New &amp;amp; noteworthy features of the 12.5 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb125/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.5 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb125/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.5 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb125/nb125.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.5 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb125/nb125/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.5 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Feel free to share the good news!&lt;/p&gt;
@@ -567,10 +567,10 @@ We do not believe any vulnerability in Log4j v1 is exploitable in Apache NetBean
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-4.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-4/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 12.4 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-4.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-4/"/>
     <published>2021-05-29T00:00:00Z</published>
     <updated>2021-05-29T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -586,13 +586,13 @@ We do not believe any vulnerability in Log4j v1 is exploitable in Apache NetBean
 &lt;p&gt;New &amp;amp; noteworthy features of the 12.4 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb124/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.4 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb124/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.4 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb124/nb124.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.4 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb124/nb124/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.4 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Feel free to share the good news!&lt;/p&gt;
@@ -618,10 +618,10 @@ We do not believe any vulnerability in Log4j v1 is exploitable in Apache NetBean
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/better-news-correct-deprecation-of.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/better-news-correct-deprecation-of/</id>
     <title type="html">Better JEP 411 News: Correct Deprecation of SecurityManager</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/better-news-correct-deprecation-of.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/better-news-correct-deprecation-of/"/>
     <published>2021-05-28T00:00:00Z</published>
     <updated>2021-05-28T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -654,14 +654,14 @@ warning before any existing code is broken.&quot;&lt;/pre&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/jep-411-deprecate-the-security1.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/jep-411-deprecate-the-security1/</id>
     <title type="html">JEP 411: Deprecate the Security Manager for Removal (Part 2)</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/jep-411-deprecate-the-security1.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/jep-411-deprecate-the-security1/"/>
     <published>2021-05-24T00:00:00Z</published>
     <updated>2021-05-24T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Following on from &lt;a href=&quot;jep-411-deprecate-the-security.html&quot; class=&quot;xref page&quot;&gt;part 1 on this topic&lt;/a&gt;, &lt;a href=&quot;https://openjdk.java.net/jeps/411&quot;&gt;JEP 411&lt;/a&gt; has recently been updated with a &quot;Future Work&quot; section, amongst other changes.
+&lt;p&gt;Following on from &lt;a href=&quot;../jep-411-deprecate-the-security/&quot; class=&quot;xref page&quot;&gt;part 1 on this topic&lt;/a&gt;, &lt;a href=&quot;https://openjdk.java.net/jeps/411&quot;&gt;JEP 411&lt;/a&gt; has recently been updated with a &quot;Future Work&quot; section, amongst other changes.
 From the Apache NetBeans perspective, this is a welcome shift in the wording of this JEP.
 It is great that the owner and reviewers of JEP 411 recognize the special needs of complex, multi protection domain applications, such as IDEs.
 Such applications inherently run &quot;less trusted&quot; code, such as 3rd party JavaBean libraries in design time, and the ability to prevent such libraries to &quot;System::exit&quot; (at least) voluntarily is essential for preventing an IDE from unexpectedly closing.&lt;/p&gt;
@@ -690,10 +690,10 @@ Then applications should be updated (like NetBeans) to use such libraries. Only 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/jep-411-deprecate-the-security.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/jep-411-deprecate-the-security/</id>
     <title type="html">JEP 411: Deprecate the Security Manager for Removal (Part 1)</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/jep-411-deprecate-the-security.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/jep-411-deprecate-the-security/"/>
     <published>2021-04-16T00:00:00Z</published>
     <updated>2021-04-16T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -742,10 +742,10 @@ However, the WatchService is not guaranteed to work (e.g., due to OS restriction
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-3.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-3/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 12.3 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-3.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-3/"/>
     <published>2021-03-11T00:00:00Z</published>
     <updated>2021-03-11T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -761,13 +761,13 @@ However, the WatchService is not guaranteed to work (e.g., due to OS restriction
 &lt;p&gt;New &amp;amp; noteworthy features of the 12.3 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb123/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.3 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb123/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.3 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb123/nb123.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.3 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb123/nb123/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.3 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Feel free to share the good news!&lt;/p&gt;
@@ -775,10 +775,10 @@ However, the WatchService is not guaranteed to work (e.g., due to OS restriction
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-2.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-2/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 12.2 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-2.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-2/"/>
     <published>2020-12-07T00:00:00Z</published>
     <updated>2020-12-07T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -795,13 +795,13 @@ Use 12.2 to access the latest features and to provide feedback for the next LTS 
 &lt;p&gt;New &amp;amp; noteworthy features of the 12.2 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb122/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.2 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb122/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.2 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb122/nb122.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.2 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb122/nb122/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.2 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Feel free to share the good news!&lt;/p&gt;
@@ -809,10 +809,10 @@ Use 12.2 to access the latest features and to provide feedback for the next LTS 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-1.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-1/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 12.1 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-1.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-1/"/>
     <published>2020-09-15T00:00:00Z</published>
     <updated>2020-09-15T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -828,13 +828,13 @@ Use 12.1 to access the latest features and to provide feedback for the next LTS 
 &lt;p&gt;New &amp;amp; noteworthy features of the 12.1 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb121/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.1 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb121/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.1 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb121/nb121.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.1 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb121/nb121/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.1 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Feel free to share the good news!&lt;/p&gt;
@@ -842,10 +842,10 @@ Use 12.1 to access the latest features and to provide feedback for the next LTS 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-0.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-0/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 12.0 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-0.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-12-0/"/>
     <published>2020-06-09T00:00:00Z</published>
     <updated>2020-06-09T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -867,13 +867,13 @@ enabling this complex and exciting project to continue to inspire and be of use 
 &lt;p&gt;New &amp;amp; noteworthy features of the 12.0 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb120/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.0 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb120/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.0 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb120/nb120.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.0 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb120/nb120/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 12.0 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Feel free to share the good news!&lt;/p&gt;
@@ -881,10 +881,10 @@ enabling this complex and exciting project to continue to inspire and be of use 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/newly-identified-inactive-malware-campaign.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/newly-identified-inactive-malware-campaign/</id>
     <title type="html">Newly Identified Inactive Malware Campaign: Impact on Apache NetBeans</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/newly-identified-inactive-malware-campaign.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/newly-identified-inactive-malware-campaign/"/>
     <published>2020-06-01T00:00:00Z</published>
     <updated>2020-06-01T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -926,10 +926,10 @@ are your own or that you know where they come from and what they do.&lt;/p&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/when-will-apache-netbeans-12.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/when-will-apache-netbeans-12/</id>
     <title type="html">When will Apache NetBeans 12.0 be released?</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/when-will-apache-netbeans-12.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/when-will-apache-netbeans-12/"/>
     <published>2020-03-11T00:00:00Z</published>
     <updated>2020-03-11T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -951,10 +951,10 @@ are your own or that you know where they come from and what they do.&lt;/p&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-3.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-3/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 11.3 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-3.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-3/"/>
     <published>2020-03-04T00:00:00Z</published>
     <updated>2020-03-04T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -971,13 +971,13 @@ Use 11.3 to access the latest features and to provide feedback for the next LTS 
 &lt;p&gt;New &amp;amp; noteworthy features of the 11.3 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb113/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.3 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb113/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.3 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb113/nb113.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.3 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb113/nb113/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.3 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Feel free to share the good news!&lt;/p&gt;
@@ -985,10 +985,10 @@ Use 11.3 to access the latest features and to provide feedback for the next LTS 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-11-3-beta2.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-11-3-beta2/</id>
     <title type="html">Apache NetBeans 11.3-beta2 is Ready for Testing!</title>
     <author><name>lkishalmi</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-11-3-beta2.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-11-3-beta2/"/>
     <published>2020-02-03T00:00:00Z</published>
     <updated>2020-02-03T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1005,10 +1005,10 @@ Use 11.3 to access the latest features and to provide feedback for the next LTS 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/released-netbeans-11-2-update.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/released-netbeans-11-2-update/</id>
     <title type="html">Released: NetBeans 11.2 Update 1</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/released-netbeans-11-2-update.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/released-netbeans-11-2-update/"/>
     <published>2019-12-03T00:00:00Z</published>
     <updated>2019-12-03T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1029,10 +1029,10 @@ Use 11.3 to access the latest features and to provide feedback for the next LTS 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-11-3-is-shaping.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-11-3-is-shaping/</id>
     <title type="html">NetBeans 11.3 is Shaping up Nicely</title>
     <author><name>lkishalmi</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-11-3-is-shaping.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-11-3-is-shaping/"/>
     <published>2019-11-30T00:00:00Z</published>
     <updated>2019-11-30T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1103,10 +1103,10 @@ Without trying to be complete, here is a small list of changes what&amp;#8217;s 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-2.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-2/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 11.2 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-2.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-2/"/>
     <published>2019-11-01T00:00:00Z</published>
     <updated>2019-11-01T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1123,13 +1123,13 @@ Use 11.2 to access the latest features and to provide feedback for the next LTS 
 &lt;p&gt;New &amp;amp; noteworthy features of the 11.2 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb112/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.2 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb112/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.2 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb112/nb112.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.2 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb112/nb112/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.2 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Feel free to share the good news!&lt;/p&gt;
@@ -1137,10 +1137,10 @@ Use 11.2 to access the latest features and to provide feedback for the next LTS 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-at-oracle-code-one.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-at-oracle-code-one/</id>
     <title type="html">NetBeans at Oracle Code One 2019</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-at-oracle-code-one.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-at-oracle-code-one/"/>
     <published>2019-09-11T00:00:00Z</published>
     <updated>2019-09-11T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1280,10 +1280,10 @@ Use 11.2 to access the latest features and to provide feedback for the next LTS 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/what-to-do-with-javafx.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/what-to-do-with-javafx/</id>
     <title type="html">What to do with JavaFX and OpenJFX in Apache NetBeans?</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/what-to-do-with-javafx.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/what-to-do-with-javafx/"/>
     <published>2019-08-25T00:00:00Z</published>
     <updated>2019-08-25T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1359,10 +1359,10 @@ so that it&amp;#8217;s clear that they&amp;#8217;re not recommended, while still
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/simplified-apache-netbeans-welcome-screen.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/simplified-apache-netbeans-welcome-screen/</id>
     <title type="html">Simplified Apache NetBeans Welcome Screen</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/simplified-apache-netbeans-welcome-screen.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/simplified-apache-netbeans-welcome-screen/"/>
     <published>2019-08-24T00:00:00Z</published>
     <updated>2019-08-24T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1379,7 +1379,7 @@ so that it&amp;#8217;s clear that they&amp;#8217;re not recommended, while still
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/apache-netbeans-welcome-new.png&quot; alt=&quot;apache netbeans welcome new&quot; width=&quot;400&quot; height=&quot;295&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/apache-netbeans-welcome-new.png&quot; alt=&quot;apache netbeans welcome new&quot; width=&quot;400&quot; height=&quot;295&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -1388,10 +1388,10 @@ so that it&amp;#8217;s clear that they&amp;#8217;re not recommended, while still
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/lsp-client-demo-ba-sh.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/lsp-client-demo-ba-sh/</id>
     <title type="html">LSP Client demo - (ba)sh language server</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/lsp-client-demo-ba-sh.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/lsp-client-demo-ba-sh/"/>
     <published>2019-08-17T00:00:00Z</published>
     <updated>2019-08-17T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1553,10 +1553,10 @@ so that it&amp;#8217;s clear that they&amp;#8217;re not recommended, while still
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/why-does-apache-netbeans-need.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/why-does-apache-netbeans-need/</id>
     <title type="html">Why Does Apache NetBeans Need Its Own Parsers?</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/why-does-apache-netbeans-need.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/why-does-apache-netbeans-need/"/>
     <published>2019-08-06T00:00:00Z</published>
     <updated>2019-08-06T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1587,10 +1587,10 @@ so that it&amp;#8217;s clear that they&amp;#8217;re not recommended, while still
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/php-7-4-support.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/php-7-4-support/</id>
     <title type="html">PHP 7.4 Support</title>
     <author><name>Junichi</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/php-7-4-support.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/php-7-4-support/"/>
     <published>2019-07-25T00:00:00Z</published>
     <updated>2019-07-25T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1616,7 +1616,7 @@ Definitely, we need your help!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/nb112-php74-project-properties.png&quot; alt=&quot;nb112 php74 project properties&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/nb112-php74-project-properties.png&quot; alt=&quot;nb112 php74 project properties&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -1626,7 +1626,7 @@ Definitely, we need your help!&lt;/p&gt;
 &lt;h3 id=&quot;_null_coalescing_assignment_operator&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;#_null_coalescing_assignment_operator&quot;&gt;&lt;/a&gt;Null Coalescing Assignment Operator&lt;/h3&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/nb112-php74-null-coalescing-assignment-operator.png&quot; alt=&quot;nb112 php74 null coalescing assignment operator&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/nb112-php74-null-coalescing-assignment-operator.png&quot; alt=&quot;nb112 php74 null coalescing assignment operator&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1634,7 +1634,7 @@ Definitely, we need your help!&lt;/p&gt;
 &lt;h3 id=&quot;_spread_operator_in_array_expression&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;#_spread_operator_in_array_expression&quot;&gt;&lt;/a&gt;Spread Operator in Array Expression&lt;/h3&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/nb112-php74-spread-operator-in-array-expression.png&quot; alt=&quot;nb112 php74 spread operator in array expression&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/nb112-php74-spread-operator-in-array-expression.png&quot; alt=&quot;nb112 php74 spread operator in array expression&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1642,7 +1642,7 @@ Definitely, we need your help!&lt;/p&gt;
 &lt;h3 id=&quot;_numeric_literal_separator&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;#_numeric_literal_separator&quot;&gt;&lt;/a&gt;Numeric Literal Separator&lt;/h3&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/nb112-php74-numeric-literal-separator.png&quot; alt=&quot;nb112 php74 numeric literal separator&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/nb112-php74-numeric-literal-separator.png&quot; alt=&quot;nb112 php74 numeric literal separator&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1650,7 +1650,7 @@ Definitely, we need your help!&lt;/p&gt;
 &lt;h3 id=&quot;_typed_properties_2_0&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;#_typed_properties_2_0&quot;&gt;&lt;/a&gt;Typed Properties 2.0&lt;/h3&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/nb112-php74-typed-properties-2.0.png&quot; alt=&quot;nb112 php74 typed properties 2.0&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/nb112-php74-typed-properties-2.0.png&quot; alt=&quot;nb112 php74 typed properties 2.0&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1658,7 +1658,7 @@ Definitely, we need your help!&lt;/p&gt;
 &lt;h3 id=&quot;_arrow_functions_2_0&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;#_arrow_functions_2_0&quot;&gt;&lt;/a&gt;Arrow Functions 2.0&lt;/h3&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/nb112-php74-arrow-functions-2.0.png&quot; alt=&quot;nb112 php74 arrow functions 2.0&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/nb112-php74-arrow-functions-2.0.png&quot; alt=&quot;nb112 php74 arrow functions 2.0&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1672,7 +1672,7 @@ Definitely, we need your help!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/nb112-php74-convert-closure-to-arrow-function.gif&quot; alt=&quot;nb112 php74 convert closure to arrow function&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/nb112-php74-convert-closure-to-arrow-function.gif&quot; alt=&quot;nb112 php74 convert closure to arrow function&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -1680,7 +1680,7 @@ Definitely, we need your help!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/nb112-php74-suggest-using-combined-assignment-operators.gif&quot; alt=&quot;nb112 php74 suggest using combined assignment operators&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/nb112-php74-suggest-using-combined-assignment-operators.gif&quot; alt=&quot;nb112 php74 suggest using combined assignment operators&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -1697,10 +1697,10 @@ If you find some issues or enhancements, please report them to JIRA with your ex
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-1.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-1/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans 11.1 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-1.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-11-1/"/>
     <published>2019-07-22T00:00:00Z</published>
     <updated>2019-07-22T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1716,13 +1716,13 @@ Use 11.1 to access the latest features and to provide feedback for the next LTS 
 &lt;p&gt;New &amp;amp; noteworthy features of the 11.1 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb111/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.1 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb111/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.1 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb111/nb111.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.1 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb111/nb111/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans 11.1 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Feel free to share the good news!&lt;/p&gt;
@@ -1730,10 +1730,10 @@ Use 11.1 to access the latest features and to provide feedback for the next LTS 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-openjfx-and-adoptopenjdk.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-openjfx-and-adoptopenjdk/</id>
     <title type="html">Apache NetBeans, OpenJFX, and AdoptOpenJDK</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-openjfx-and-adoptopenjdk.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-openjfx-and-adoptopenjdk/"/>
     <published>2019-06-10T00:00:00Z</published>
     <updated>2019-06-10T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1761,10 +1761,10 @@ Use 11.1 to access the latest features and to provide feedback for the next LTS 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-has-graduated.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-has-graduated/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans Has Graduated!</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-has-graduated.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-has-graduated/"/>
     <published>2019-04-25T00:00:00Z</published>
     <updated>2019-04-25T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1785,10 +1785,10 @@ said Geertjan Wielenga, Vice President of Apache NetBeans.
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-11.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-11/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans (incubating) 11.0 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-11.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-11/"/>
     <published>2019-04-05T00:00:00Z</published>
     <updated>2019-04-05T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1804,21 +1804,21 @@ said Geertjan Wielenga, Vice President of Apache NetBeans.
 &lt;p&gt;New &amp;amp; noteworthy features of the 11.0 release:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb110/index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 11.0 Features page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb110/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 11.0 Features page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Downloads:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb110/nb110.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 11.0 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb110/nb110/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 11.0 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/restructuring-of-project-templates-in.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/restructuring-of-project-templates-in/</id>
     <title type="html">Restructuring of Project Templates in Apache NetBeans</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/restructuring-of-project-templates-in.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/restructuring-of-project-templates-in/"/>
     <published>2019-02-01T00:00:00Z</published>
     <updated>2019-02-01T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1833,7 +1833,7 @@ while putting the other two build systems higher and therefore more prominently 
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/new_project_dialog.png&quot; alt=&quot;new project dialog&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/new_project_dialog.png&quot; alt=&quot;new project dialog&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -1864,10 +1864,10 @@ that results in Maven-based projects is probably not right either, i.e., a caref
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/enterprise-cluster-integrated-into-apache.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/enterprise-cluster-integrated-into-apache/</id>
     <title type="html">Enterprise Cluster Integrated into Apache NetBeans</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/enterprise-cluster-integrated-into-apache.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/enterprise-cluster-integrated-into-apache/"/>
     <published>2019-01-28T00:00:00Z</published>
     <updated>2019-01-28T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1887,12 +1887,12 @@ which are not (should not) be very current anymore, as shown below in the screen
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/screen_shot_2019_01_28_at_19_51_45.png&quot; alt=&quot;screen shot 2019 01 28 at 19 51 45&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/screen_shot_2019_01_28_at_19_51_45.png&quot; alt=&quot;screen shot 2019 01 28 at 19 51 45&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/screen_shot_2019_01_28_at_19_56_58.png&quot; alt=&quot;screen shot 2019 01 28 at 19 56 58&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/screen_shot_2019_01_28_at_19_56_58.png&quot; alt=&quot;screen shot 2019 01 28 at 19 56 58&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -1904,10 +1904,10 @@ Or, maybe the EJB and EAR support should simply be removed?&lt;/p&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/junit-5-apache-ant-and.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/junit-5-apache-ant-and/</id>
     <title type="html">Junit 5, Apache Ant, and Apache NetBeans</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/junit-5-apache-ant-and.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/junit-5-apache-ant-and/"/>
     <published>2019-01-27T00:00:00Z</published>
     <updated>2019-01-27T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -1958,7 +1958,7 @@ in the Ant tab in the Options window). But, for right now, I&amp;#8217;d prefer 
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/junit5.png&quot; alt=&quot;junit5&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/junit5.png&quot; alt=&quot;junit5&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -1986,15 +1986,15 @@ JUnit 5 tests and dependencies would be set, while when adding JUnit tests to An
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/master-your-scripting-skills-with.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/master-your-scripting-skills-with/</id>
     <title type="html">Master Your Scripting Skills with the New Tutorial!</title>
     <author><name>jtulach</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/master-your-scripting-skills-with.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/master-your-scripting-skills-with/"/>
     <published>2019-01-24T00:00:00Z</published>
     <updated>2019-01-24T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Enhanced &lt;a href=&quot;https://bits.netbeans.org/dev/javadoc//org-netbeans-libs-graalsdk/org/netbeans/libs/graalsdk/package-summary.html&quot;&gt;scripting tutorial&lt;/a&gt; has just
-become part of &lt;a href=&quot;../../index.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans&lt;/a&gt; documentation. It contains various examples showing how to communicate from &lt;strong&gt;Java&lt;/strong&gt; with &lt;strong&gt;JavaScript&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt; and other languages.
+become part of &lt;a href=&quot;../../../&quot; class=&quot;xref page&quot;&gt;Apache NetBeans&lt;/a&gt; documentation. It contains various examples showing how to communicate from &lt;strong&gt;Java&lt;/strong&gt; with &lt;strong&gt;JavaScript&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt; and other languages.
 The following topics are covered:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;ulist&quot;&gt;
@@ -2093,10 +2093,10 @@ The following topics are covered:&lt;/p&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-10.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-10/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans (incubating) 10.0 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-10.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-10/"/>
     <published>2018-12-27T00:00:00Z</published>
     <updated>2018-12-27T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2114,7 +2114,7 @@ as well as all the modules that provide the Java SE, PHP, JavaScript and Groovy 
 &lt;p&gt;Read more on our download page:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb100/nb100.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 10.0 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb100/nb100/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 10.0 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;New &amp;amp; Noteworthy features of the 10.0 Release:&lt;/p&gt;
@@ -2132,15 +2132,15 @@ as well as all the modules that provide the Java SE, PHP, JavaScript and Groovy 
 &lt;p&gt;Work is being done on bringing netbeans.org to Apache. In the meantime, refer to the below for all details related to Apache NetBeans:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../index.html&quot; class=&quot;xref page&quot;&gt;&lt;a href=&quot;https://netbeans.apache.org/&quot; class=&quot;bare&quot;&gt;https://netbeans.apache.org/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../&quot; class=&quot;xref page&quot;&gt;&lt;a href=&quot;https://netbeans.apache.org/&quot; class=&quot;bare&quot;&gt;https://netbeans.apache.org/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/is-apache-netbeans-10-ready.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/is-apache-netbeans-10-ready/</id>
     <title type="html">Is Apache NetBeans 10 Ready To Be Released?</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/is-apache-netbeans-10-ready.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/is-apache-netbeans-10-ready/"/>
     <published>2018-11-07T00:00:00Z</published>
     <updated>2018-11-07T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2180,10 +2180,10 @@ as well as all the modules that provide the Java SE, PHP, JavaScript and Groovy 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/duke-s-choice-award-2018.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/duke-s-choice-award-2018/</id>
     <title type="html">Duke Choice Award 2018 for Apache NetBeans</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/duke-s-choice-award-2018.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/duke-s-choice-award-2018/"/>
     <published>2018-10-23T00:00:00Z</published>
     <updated>2018-10-23T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2195,16 +2195,16 @@ recognizing its innovation and the hard and dedicated work involved in moving Ne
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/duke-s-choice-award-2018.png&quot; alt=&quot;duke s choice award 2018&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/duke-s-choice-award-2018.png&quot; alt=&quot;duke s choice award 2018&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-at-oracle-code.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-at-oracle-code/</id>
     <title type="html">Apache NetBeans at Oracle Code One 2018</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-at-oracle-code.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-at-oracle-code/"/>
     <published>2018-10-17T00:00:00Z</published>
     <updated>2018-10-17T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2321,10 +2321,10 @@ recognizing its innovation and the hard and dedicated work involved in moving Ne
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/initial-language-server-protocol-support.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/initial-language-server-protocol-support/</id>
     <title type="html">Initial Language Server Protocol Support in Apache NetBeans 10</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/initial-language-server-protocol-support.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/initial-language-server-protocol-support/"/>
     <published>2018-10-10T00:00:00Z</published>
     <updated>2018-10-10T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2341,17 +2341,17 @@ recognizing its innovation and the hard and dedicated work involved in moving Ne
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/initial-language-server-protocol-support1.png&quot; alt=&quot;initial language server protocol support1&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/initial-language-server-protocol-support1.png&quot; alt=&quot;initial language server protocol support1&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/initial-language-server-protocol-support2.png&quot; alt=&quot;initial language server protocol support2&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/initial-language-server-protocol-support2.png&quot; alt=&quot;initial language server protocol support2&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/initial-language-server-protocol-support3.png&quot; alt=&quot;initial language server protocol support3&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/initial-language-server-protocol-support3.png&quot; alt=&quot;initial language server protocol support3&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -2363,10 +2363,10 @@ recognizing its innovation and the hard and dedicated work involved in moving Ne
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/php-7-3-support.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/php-7-3-support/</id>
     <title type="html">PHP 7.3 Support</title>
     <author><name>Junichi</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/php-7-3-support.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/php-7-3-support/"/>
     <published>2018-10-01T00:00:00Z</published>
     <updated>2018-10-01T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2387,7 +2387,7 @@ If you are interested in them, just test them. You can download a dev version he
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-7-3-support1.png&quot; alt=&quot;php 7 3 support1&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-7-3-support1.png&quot; alt=&quot;php 7 3 support1&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -2397,7 +2397,7 @@ If you are interested in them, just test them. You can download a dev version he
 &lt;h3 id=&quot;_allow_a_trailing_comma_in_function_calls&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;#_allow_a_trailing_comma_in_function_calls&quot;&gt;&lt;/a&gt;Allow a trailing comma in function calls&lt;/h3&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-7-3-support2.png&quot; alt=&quot;php 7 3 support2&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-7-3-support2.png&quot; alt=&quot;php 7 3 support2&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2405,7 +2405,7 @@ If you are interested in them, just test them. You can download a dev version he
 &lt;h3 id=&quot;_list_referenct_assignment&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;#_list_referenct_assignment&quot;&gt;&lt;/a&gt;list() Referenct Assignment&lt;/h3&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-7-3-support3.png&quot; alt=&quot;php 7 3 support3&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-7-3-support3.png&quot; alt=&quot;php 7 3 support3&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2413,7 +2413,7 @@ If you are interested in them, just test them. You can download a dev version he
 &lt;h3 id=&quot;_flexible_heredoc_and_nowdoc_syntaxes&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;#_flexible_heredoc_and_nowdoc_syntaxes&quot;&gt;&lt;/a&gt;Flexible Heredoc and Nowdoc Syntaxes&lt;/h3&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-7-3-support4.png&quot; alt=&quot;php 7 3 support4&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-7-3-support4.png&quot; alt=&quot;php 7 3 support4&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;admonitionblock note&quot;&gt;
@@ -2459,10 +2459,10 @@ END;&lt;/code&gt;&lt;/pre&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/phpstan-support.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/phpstan-support/</id>
     <title type="html">PHPStan Support</title>
     <author><name>Junichi</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/phpstan-support.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/phpstan-support/"/>
     <published>2018-09-26T00:00:00Z</published>
     <updated>2018-09-26T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2482,7 +2482,7 @@ At least you have to set the PHPStan script path to &quot;PHPStan&quot;. If you 
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/phpstan-support1.png&quot; alt=&quot;phpstan support1&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/phpstan-support1.png&quot; alt=&quot;phpstan support1&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2496,7 +2496,7 @@ The inspect dialog is shown.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/phpstan-support2.png&quot; alt=&quot;phpstan support2&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/phpstan-support2.png&quot; alt=&quot;phpstan support2&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -2506,7 +2506,7 @@ Finally, The results are shown in the inspector window after the inspection is d
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/phpstan-support3.png&quot; alt=&quot;phpstan support3&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/phpstan-support3.png&quot; alt=&quot;phpstan support3&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -2520,10 +2520,10 @@ If you find some issues or enhancements, please report them to JIRA
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans2.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans2/</id>
     <title type="html">Audio of Virtual Apache NetBeans Meeting 3</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans2.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans2/"/>
     <published>2018-09-06T00:00:00Z</published>
     <updated>2018-09-06T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2542,7 +2542,7 @@ If you find some issues or enhancements, please report them to JIRA
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/audio-of-virtual-apache-netbeans2-1.png&quot; alt=&quot;audio of virtual apache netbeans2 1&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/audio-of-virtual-apache-netbeans2-1.png&quot; alt=&quot;audio of virtual apache netbeans2 1&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -2561,10 +2561,10 @@ If you find some issues or enhancements, please report them to JIRA
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-guest-blog-edward.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-guest-blog-edward/</id>
     <title type="html">Apache NetBeans Guest Blog: Edward M. Kagan</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-guest-blog-edward.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-guest-blog-edward/"/>
     <published>2018-09-05T00:00:00Z</published>
     <updated>2018-09-05T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2591,12 +2591,12 @@ maybe it&amp;#8217;ll be useful for other users too. Here it is on the Plugin Po
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/apache-netbeans-guest-blog-edward1.png&quot; alt=&quot;apache netbeans guest blog edward1&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/apache-netbeans-guest-blog-edward1.png&quot; alt=&quot;apache netbeans guest blog edward1&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/apache-netbeans-guest-blog-edward2.png&quot; alt=&quot;apache netbeans guest blog edward2&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/apache-netbeans-guest-blog-edward2.png&quot; alt=&quot;apache netbeans guest blog edward2&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -2608,10 +2608,10 @@ though it does always provide nice UNIX-like tools, and I love it.
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/php-conditional-breakpoints-and-new.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/php-conditional-breakpoints-and-new/</id>
     <title type="html">[PHP] Conditional breakpoints and new Twig features</title>
     <author><name>Junichi</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/php-conditional-breakpoints-and-new.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/php-conditional-breakpoints-and-new/"/>
     <published>2018-08-30T00:00:00Z</published>
     <updated>2018-08-30T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2642,8 +2642,8 @@ ant -Dcluster.config=full
 i.e. If the condition is true, the debugger stops on the breakpoint, otherwise, it does not stop there.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;I assume that you have already done the settings for debugging. (please see: &lt;a href=&quot;../../../../wiki/main/wiki/HowToConfigureXDebug.html&quot; class=&quot;xref page&quot;&gt;HowToConfigureXDebug&lt;/a&gt;)
-If xdebug doesn&amp;#8217;t work, please ask someone via &lt;a href=&quot;../../community/mailing-lists.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans mailing lists&lt;/a&gt;. (Please don&amp;#8217;t ask here.)&lt;/p&gt;
+&lt;p&gt;I assume that you have already done the settings for debugging. (please see: &lt;a href=&quot;../../../../../wiki/main/wiki/HowToConfigureXDebug/&quot; class=&quot;xref page&quot;&gt;HowToConfigureXDebug&lt;/a&gt;)
+If xdebug doesn&amp;#8217;t work, please ask someone via &lt;a href=&quot;../../../community/mailing-lists/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans mailing lists&lt;/a&gt;. (Please don&amp;#8217;t ask here.)&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Just in my case(Ubuntu 18.04):&lt;/p&gt;
@@ -2689,7 +2689,7 @@ xdebug.idekey=&quot;netbeans-xdebug&quot;&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-conditional-breakpoints-and-new1.png&quot; alt=&quot;php conditional breakpoints and new1&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-conditional-breakpoints-and-new1.png&quot; alt=&quot;php conditional breakpoints and new1&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2700,12 +2700,12 @@ xdebug.idekey=&quot;netbeans-xdebug&quot;&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-conditional-breakpoints-and-new2.png&quot; alt=&quot;php conditional breakpoints and new2&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-conditional-breakpoints-and-new2.png&quot; alt=&quot;php conditional breakpoints and new2&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-conditional-breakpoints-and-new3.png&quot; alt=&quot;php conditional breakpoints and new3&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-conditional-breakpoints-and-new3.png&quot; alt=&quot;php conditional breakpoints and new3&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2716,7 +2716,7 @@ xdebug.idekey=&quot;netbeans-xdebug&quot;&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-conditional-breakpoints-and-new4.png&quot; alt=&quot;php conditional breakpoints and new4&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-conditional-breakpoints-and-new4.png&quot; alt=&quot;php conditional breakpoints and new4&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2730,7 +2730,7 @@ xdebug.idekey=&quot;netbeans-xdebug&quot;&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-conditional-breakpoints-and-new5.gif&quot; alt=&quot;php conditional breakpoints and new5&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-conditional-breakpoints-and-new5.gif&quot; alt=&quot;php conditional breakpoints and new5&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2746,12 +2746,12 @@ If you would like to disable, please uncheck the options (&lt;span class=&quot;m
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-conditional-breakpoints-and-new6.png&quot; alt=&quot;php conditional breakpoints and new6&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-conditional-breakpoints-and-new6.png&quot; alt=&quot;php conditional breakpoints and new6&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-conditional-breakpoints-and-new7.gif&quot; alt=&quot;php conditional breakpoints and new7&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-conditional-breakpoints-and-new7.gif&quot; alt=&quot;php conditional breakpoints and new7&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2764,7 +2764,7 @@ If you would like to disable, please uncheck the options (&lt;span class=&quot;m
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/php-conditional-breakpoints-and-new8.png&quot; alt=&quot;php conditional breakpoints and new8&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/php-conditional-breakpoints-and-new8.png&quot; alt=&quot;php conditional breakpoints and new8&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -2777,10 +2777,10 @@ If you find some issues or enhancements, please report them to JIRA
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans1.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans1/</id>
     <title type="html">Audio of Virtual Apache NetBeans Meeting 2</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans1.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans1/"/>
     <published>2018-08-21T00:00:00Z</published>
     <updated>2018-08-21T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2803,10 +2803,10 @@ If you find some issues or enhancements, please report them to JIRA
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-at-infoq.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-at-infoq/</id>
     <title type="html">NetBeans Status at InfoQ</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-at-infoq.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-at-infoq/"/>
     <published>2018-08-16T00:00:00Z</published>
     <updated>2018-08-16T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2817,7 +2817,7 @@ If you find some issues or enhancements, please report them to JIRA
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/netbeans-status-at-infoq.png&quot; alt=&quot;netbeans status at infoq&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/netbeans-status-at-infoq.png&quot; alt=&quot;netbeans status at infoq&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -2829,10 +2829,10 @@ If you find some issues or enhancements, please report them to JIRA
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans/</id>
     <title type="html">Audio of Virtual Apache NetBeans Meeting 1</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/audio-of-virtual-apache-netbeans/"/>
     <published>2018-08-07T00:00:00Z</published>
     <updated>2018-08-07T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2849,10 +2849,10 @@ If you find some issues or enhancements, please report them to JIRA
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-92.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-92/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans (incubating) 9.0 Released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-92.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-92/"/>
     <published>2018-07-29T00:00:00Z</published>
     <updated>2018-07-29T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -2865,7 +2865,7 @@ If you find some issues or enhancements, please report them to JIRA
 &lt;p&gt;Read more on our download page:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../download/nb90/nb90.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 9.0 Download page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../download/nb90/nb90/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 9.0 Download page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;New &amp;amp; Noteworthy features of the 9.0 Release:&lt;/p&gt;
@@ -2889,7 +2889,7 @@ If you find some issues or enhancements, please report them to JIRA
 &lt;p&gt;Work is being done on bringing netbeans.org to Apache. In the meantime, refer to the below for all details related to Apache NetBeans:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../index.html&quot; class=&quot;xref page&quot;&gt;&lt;a href=&quot;https://netbeans.apache.org/&quot; class=&quot;bare&quot;&gt;https://netbeans.apache.org/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../&quot; class=&quot;xref page&quot;&gt;&lt;a href=&quot;https://netbeans.apache.org/&quot; class=&quot;bare&quot;&gt;https://netbeans.apache.org/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Disclaimer: Apache NetBeans is an effort undergoing incubation at The Apache
@@ -2904,18 +2904,18 @@ indicate that the project has yet to be fully endorsed by the ASF.&lt;/p&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/what-s-nb-javac-in.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/what-s-nb-javac-in/</id>
     <title type="html">What&amp;#8217;s &quot;nb-javac&quot; in Apache NetBeans?</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/what-s-nb-javac-in.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/what-s-nb-javac-in/"/>
     <published>2018-07-22T00:00:00Z</published>
     <updated>2018-07-22T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Not long after you start up &lt;a href=&quot;tentative-schedule-for-apache-netbeans.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 9.0&lt;/a&gt; &lt;strong&gt;on top of JDK 8&lt;/strong&gt;, after accepting the license agreement and handling import settings, you&amp;#8217;re confronted with this dialog:&lt;/p&gt;
+&lt;p&gt;Not long after you start up &lt;a href=&quot;../tentative-schedule-for-apache-netbeans/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 9.0&lt;/a&gt; &lt;strong&gt;on top of JDK 8&lt;/strong&gt;, after accepting the license agreement and handling import settings, you&amp;#8217;re confronted with this dialog:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/what-s-nb-javac-in1.png&quot; alt=&quot;what s nb javac in1&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/what-s-nb-javac-in1.png&quot; alt=&quot;what s nb javac in1&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -2923,7 +2923,7 @@ indicate that the project has yet to be fully endorsed by the ASF.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/what-s-nb-javac-in2.png&quot; alt=&quot;what s nb javac in2&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/what-s-nb-javac-in2.png&quot; alt=&quot;what s nb javac in2&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;admonitionblock note&quot;&gt;
@@ -2940,7 +2940,7 @@ The above appears in a balloon popup in the bottom right the first time you star
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/what-s-nb-javac-in3.png&quot; alt=&quot;what s nb javac in3&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/what-s-nb-javac-in3.png&quot; alt=&quot;what s nb javac in3&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -2953,7 +2953,7 @@ The above appears in a balloon popup in the bottom right the first time you star
 &lt;p&gt;In short, neither Oracle nor Apache want the Java compiler to be part of NetBeans in Apache. Yet, NetBeans gains a lot from the patched Java compiler, as explained below:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../../../wiki/main/wiki/JavacDiff.html&quot; class=&quot;xref page&quot;&gt;JavacDiff&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../../../wiki/main/wiki/JavacDiff/&quot; class=&quot;xref page&quot;&gt;JavacDiff&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Also see this reference for details on the situation:&lt;/p&gt;
@@ -2976,14 +2976,14 @@ The above appears in a balloon popup in the bottom right the first time you star
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/what-s-happened-to-my.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/what-s-happened-to-my/</id>
     <title type="html">What&amp;#8217;s Happened to My Favorite NetBeans Plugins?</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/what-s-happened-to-my.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/what-s-happened-to-my/"/>
     <published>2018-07-20T00:00:00Z</published>
     <updated>2018-07-20T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;So, you start up &lt;a href=&quot;tentative-schedule-for-apache-netbeans.html&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 9.0&lt;/a&gt; and&amp;#8230;&amp;#8203; you find that when you go to the New Project wizard, or when you try to open your projects, that there&amp;#8217;s no support for your JavaScript, PHP, Groovy, enterprise Java (i.e., Java EE or, as it is known now, Jakarta EE), and C/C++ projects.&lt;/p&gt;
+&lt;p&gt;So, you start up &lt;a href=&quot;../tentative-schedule-for-apache-netbeans/&quot; class=&quot;xref page&quot;&gt;Apache NetBeans (incubating) 9.0&lt;/a&gt; and&amp;#8230;&amp;#8203; you find that when you go to the New Project wizard, or when you try to open your projects, that there&amp;#8217;s no support for your JavaScript, PHP, Groovy, enterprise Java (i.e., Java EE or, as it is known now, Jakarta EE), and C/C++ projects.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;What&amp;#8217;s the reason for that and what can be done?&lt;/p&gt;
@@ -3009,7 +3009,7 @@ The above appears in a balloon popup in the bottom right the first time you star
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Though note that none of these features have been tested with Apache NetBeans (incubating) 9.0,
 they should work, in most cases. If not, don&amp;#8217;t panic. Just sign up to the Apache NetBeans mailing lists,
-as explained at &lt;a href=&quot;../../index.html&quot; class=&quot;xref page&quot;&gt;netbeans.apache.org&lt;/a&gt;, and start a new thread where you&amp;#8217;ll highlight some problem you&amp;#8217;ve encountered,
+as explained at &lt;a href=&quot;../../../&quot; class=&quot;xref page&quot;&gt;netbeans.apache.org&lt;/a&gt;, and start a new thread where you&amp;#8217;ll highlight some problem you&amp;#8217;ve encountered,
 after which someone will help you or you&amp;#8217;ll be advised to create a new issue in Apache NetBeans Issuezilla.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -3021,10 +3021,10 @@ after which someone will help you or you&amp;#8217;ll be advised to create a new
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/tentative-schedule-for-apache-netbeans.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/tentative-schedule-for-apache-netbeans/</id>
     <title type="html">Tentative Schedule for Apache NetBeans (incubating) 9.0 Release</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/tentative-schedule-for-apache-netbeans.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/tentative-schedule-for-apache-netbeans/"/>
     <published>2018-07-10T00:00:00Z</published>
     <updated>2018-07-10T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3061,10 +3061,10 @@ after which someone will help you or you&amp;#8217;ll be advised to create a new
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-for-javaee-project-productivity.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-for-javaee-project-productivity/</id>
     <title type="html">Apache NetBeans and Java EE Productivity in Burkina Faso</title>
     <author><name>Constantin Drabo</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-for-javaee-project-productivity.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-for-javaee-project-productivity/"/>
     <published>2018-07-03T00:00:00Z</published>
     <updated>2018-07-03T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3085,26 +3085,26 @@ while some decided to continue using NetBeans, with others promising to start wo
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/netbeans-for-javaee-project-productivity1.png&quot; alt=&quot;netbeans for javaee project productivity1&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/netbeans-for-javaee-project-productivity1.png&quot; alt=&quot;netbeans for javaee project productivity1&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/netbeans-for-javaee-project-productivity2.png&quot; alt=&quot;netbeans for javaee project productivity2&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/netbeans-for-javaee-project-productivity2.png&quot; alt=&quot;netbeans for javaee project productivity2&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/netbeans-for-javaee-project-productivity3.png&quot; alt=&quot;netbeans for javaee project productivity3&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/netbeans-for-javaee-project-productivity3.png&quot; alt=&quot;netbeans for javaee project productivity3&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/1-5-m-lines-of.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/1-5-m-lines-of/</id>
     <title type="html">1.5 M Lines Of Oracle Code Now in Apache NetBeans Git</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/1-5-m-lines-of.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/1-5-m-lines-of/"/>
     <published>2018-06-26T00:00:00Z</published>
     <updated>2018-06-26T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3114,10 +3114,10 @@ providing tools for enterprise Java, JavaScript, PHP, Groovy, and more, has now 
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-at-fossback-18.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-at-fossback-18/</id>
     <title type="html">NetBeans Status at FossBack &apos;18</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-at-fossback-18.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-at-fossback-18/"/>
     <published>2018-06-22T00:00:00Z</published>
     <updated>2018-06-22T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3129,15 +3129,15 @@ providing tools for enterprise Java, JavaScript, PHP, Groovy, and more, has now 
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;The full report on the session and NetBeans attendance is here: &lt;a href=&quot;apache-netbeans-at-foss-backstage.html&quot; class=&quot;xref page&quot;&gt;blog foss backstage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The full report on the session and NetBeans attendance is here: &lt;a href=&quot;../apache-netbeans-at-foss-backstage/&quot; class=&quot;xref page&quot;&gt;blog foss backstage&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/1-5m-lines-of-netbeans.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/1-5m-lines-of-netbeans/</id>
     <title type="html">1.5M Lines of NetBeans Code from Oracle to Apache</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/1-5m-lines-of-netbeans.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/1-5m-lines-of-netbeans/"/>
     <published>2018-06-21T00:00:00Z</published>
     <updated>2018-06-21T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3157,10 +3157,10 @@ Right now, it is a ZIP file, it needs to be moved to Apache NetBeans Git, and we
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-at-foss-backstage.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-at-foss-backstage/</id>
     <title type="html">Apache NetBeans at FOSS Backstage 2018</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-at-foss-backstage.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/apache-netbeans-at-foss-backstage/"/>
     <published>2018-06-14T00:00:00Z</published>
     <updated>2018-06-14T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3179,7 +3179,7 @@ Here we are, literally about 5 minutes after meeting, discussing the current sta
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/apache-netbeans-at-foss-backstage.png&quot; alt=&quot;apache netbeans at foss backstage&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/apache-netbeans-at-foss-backstage.png&quot; alt=&quot;apache netbeans at foss backstage&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -3223,10 +3223,10 @@ community members will be submitting sessions to similar Apache events around th
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-91.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-91/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans (incubating) 9.0 RC1 released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-91.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-91/"/>
     <published>2018-05-29T00:00:00Z</published>
     <updated>2018-05-29T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3285,7 +3285,7 @@ community members will be submitting sessions to similar Apache events around th
 &lt;p&gt;Work is being done on bringing netbeans.org to Apache. We already have our Apache site set up, here:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;../../index.html&quot; class=&quot;xref page&quot;&gt;&lt;a href=&quot;https://netbeans.apache.org/&quot; class=&quot;bare&quot;&gt;https://netbeans.apache.org/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../&quot; class=&quot;xref page&quot;&gt;&lt;a href=&quot;https://netbeans.apache.org/&quot; class=&quot;bare&quot;&gt;https://netbeans.apache.org/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;On behalf of the Apache NetBeans PPMC&lt;/p&gt;
@@ -3296,10 +3296,10 @@ community members will be submitting sessions to similar Apache events around th
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/new-apache-netbeans-incubating-logo.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/new-apache-netbeans-incubating-logo/</id>
     <title type="html">New Apache NetBeans (incubating) Logo!</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/new-apache-netbeans-incubating-logo.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/new-apache-netbeans-incubating-logo/"/>
     <published>2018-03-06T00:00:00Z</published>
     <updated>2018-03-06T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3307,16 +3307,16 @@ community members will be submitting sessions to similar Apache events around th
 &lt;/div&gt;
 &lt;div class=&quot;imageblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;../../_images/blogs/entry/new-apache-netbeans-incubating-logo.png&quot; alt=&quot;new apache netbeans incubating logo&quot;&gt;
+&lt;img src=&quot;../../../_images/blogs/entry/new-apache-netbeans-incubating-logo.png&quot; alt=&quot;new apache netbeans incubating logo&quot;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-9.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-9/</id>
     <title type="html">[ANNOUNCE] Apache NetBeans (incubating) 9.0 Beta released</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-9.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/announce-apache-netbeans-incubating-9/"/>
     <published>2018-02-16T00:00:00Z</published>
     <updated>2018-02-16T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3358,10 +3358,10 @@ community members will be submitting sessions to similar Apache events around th
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-interview-at-devox.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-interview-at-devox/</id>
     <title type="html">NetBeans Status Session at Devoxx 2017</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-interview-at-devox.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-interview-at-devox/"/>
     <published>2017-11-08T00:00:00Z</published>
     <updated>2017-11-08T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3375,10 +3375,10 @@ community members will be submitting sessions to similar Apache events around th
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/the-case-of-the-different.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/the-case-of-the-different/</id>
     <title type="html">The case of the different jsch 0.1.54 binaries</title>
     <author><name>Emilian Bold</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/the-case-of-the-different.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/the-case-of-the-different/"/>
     <published>2017-10-04T00:00:00Z</published>
     <updated>2017-10-04T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3436,10 +3436,10 @@ With the Maven Central JAR even a bit better due to &lt;code&gt;StringBuilder&lt
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-interview-at-javaone.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-interview-at-javaone/</id>
     <title type="html">Audio of Virtual Apache NetBeans Meeting 1</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-interview-at-javaone.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/netbeans-status-interview-at-javaone/"/>
     <published>2017-10-03T00:00:00Z</published>
     <updated>2017-10-03T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
@@ -3453,10 +3453,10 @@ With the Maven Central JAR even a bit better due to &lt;code&gt;StringBuilder&lt
       </content>
   </entry>
   <entry>
-    <id>https://netbeans.apache.org/front/main/blogs/entry/introducing-the-apache-netbeans-blogs.html</id>
+    <id>https://netbeans.apache.org/front/main/blogs/entry/introducing-the-apache-netbeans-blogs/</id>
     <title type="html">Introducing the Apache NetBeans Blog</title>
     <author><name>Geertjan Wielenga</name></author>
-    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/introducing-the-apache-netbeans-blogs.html"/>
+    <link rel="alternate" type="text/html" href="https://netbeans.apache.org/front/main/blogs/entry/introducing-the-apache-netbeans-blogs/"/>
     <published>2017-10-01T00:00:00Z</published>
     <updated>2017-10-01T00:00:00Z</updated>
     <content type="html">&lt;div class=&quot;paragraph&quot;&gt;
