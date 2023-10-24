@@ -244,7 +244,7 @@ The generated HTML is responsive, this is, it can be correctly visualized in mob
 :jbake-tags: tutorials
 :jbake-status: published
 :page-reviewed: 2019-01-25
-:syntax: true
+:page-syntax: true
 :source-highlighter: pygments
 :toc: left
 :toc-title:
@@ -386,7 +386,7 @@ Note the two colons for block images, and a single colon for inlined (in the par
 <pre class="highlightjs highlight"><code class="language-asciidoc hljs" data-lang="asciidoc">[.feature]
 --
 
-image::./the-title-of-the-image-small.png[role="left", title="Click to enlarge", link="images/the-title-of-the-image-big.png"]
+image::./the-title-of-the-image-small.png[role="left", title="Click to enlarge", xref="image$./the-title-of-the-image-big.png"]
 
 --</code></pre>
 </div>
@@ -432,7 +432,7 @@ Be sure to add a newline before the <code>[.feature]</code> tag.
 </div>
 </div>
 <div class="paragraph">
-<p>Other languages are <code>html</code>, <code>xml</code>, <code>javascript</code>, <code>php</code>, <code>python</code>, <code>ruby</code>. Remember to use the <code>:syntax: true</code> attribute in the metadata so that syntax highlighting works.</p>
+<p>Other languages are <code>html</code>, <code>xml</code>, <code>javascript</code>, <code>php</code>, <code>python</code>, <code>ruby</code>. Remember to use the <code>:page-syntax: true</code> attribute in the metadata so that syntax highlighting works.</p>
 </div>
 </div>
 <div class="sect2">

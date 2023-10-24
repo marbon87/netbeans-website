@@ -11,7 +11,7 @@
     <meta name="generator" content="Apache NetBeans">
     <link rel="stylesheet" href="../../../../../_/css/font-awesome.min.css">
     <link rel="alternate" type="application/atom+xml" title="Apache NetBeans Blog" href="https://netbeans.apache.org/blogs/atom" />
-    
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/default.min.css">
     <link rel="stylesheet" href="../../../../../_/css/netbeans.css">
     <link rel="apple-touch-icon" sizes="180x180" href="../../../../../_/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../../../../../_/images/fav/favicon-32x32.png">
@@ -198,9 +198,9 @@ The sample form opens in the GUI Builder Design view.</p>
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/sampleform.png"><img src="../../../_images/kb/docs/java/sampleform-small.png" alt="sampleform small"></a>
+<a class="image" href="../../../_images/kb/docs/java/sampleform.png"><img src="../../../_images/kb/docs/java/sampleform-small.png" alt="sampleform small"></a>
 </div>
 </div>
 </div>
@@ -226,9 +226,9 @@ The Customize Layout dialog box opens as shown below.</p>
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/customizerdialog.png"><img src="../../../_images/kb/docs/java/customizerdialog-small.png" alt="customizerdialog small"></a>
+<a class="image" href="../../../_images/kb/docs/java/customizerdialog.png"><img src="../../../_images/kb/docs/java/customizerdialog-small.png" alt="customizerdialog small"></a>
 </div>
 </div>
 </div>
@@ -317,9 +317,9 @@ The  <code>ContactsAdvancedFinal</code>  form with the target layout opens in th
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/addcomponent.png"><img src="../../../_images/kb/docs/java/addcomponent-small.png" alt="addcomponent small"></a>
+<a class="image" href="../../../_images/kb/docs/java/addcomponent.png"><img src="../../../_images/kb/docs/java/addcomponent-small.png" alt="addcomponent small"></a>
 </div>
 </div>
 </div>
@@ -539,9 +539,9 @@ The  <code>Insets</code>  dialog box displays.</p>
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/unwantedspace.png"><img src="../../../_images/kb/docs/java/unwantedspace-small.png" alt="unwantedspace small"></a>
+<a class="image" href="../../../_images/kb/docs/java/unwantedspace.png"><img src="../../../_images/kb/docs/java/unwantedspace-small.png" alt="unwantedspace small"></a>
 </div>
 </div>
 </div>
@@ -561,9 +561,9 @@ The  <code>Insets</code>  dialog box displays.</p>
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/enclose.png"><img src="../../../_images/kb/docs/java/enclose-small.png" alt="enclose small"></a>
+<a class="image" href="../../../_images/kb/docs/java/enclose.png"><img src="../../../_images/kb/docs/java/enclose-small.png" alt="enclose small"></a>
 </div>
 </div>
 </div>
@@ -677,9 +677,9 @@ To avoid this potential issue and let the subcontainer occupy all cells in the b
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/designsubcontainer.png"><img src="../../../_images/kb/docs/java/designsubcontainer-small.png" alt="designsubcontainer small"></a>
+<a class="image" href="../../../_images/kb/docs/java/designsubcontainer.png"><img src="../../../_images/kb/docs/java/designsubcontainer-small.png" alt="designsubcontainer small"></a>
 </div>
 </div>
 </div>
@@ -694,9 +694,9 @@ An empty cell for the new button displays.</p>
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/emptycell.png"><img src="../../../_images/kb/docs/java/emptycell-small.png" alt="emptycell small"></a>
+<a class="image" href="../../../_images/kb/docs/java/emptycell.png"><img src="../../../_images/kb/docs/java/emptycell-small.png" alt="emptycell small"></a>
 </div>
 </div>
 </div>
@@ -711,9 +711,9 @@ A new  <code>jButton1</code>  button is added.</p>
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/newbutton.png"><img src="../../../_images/kb/docs/java/newbutton-small.png" alt="newbutton small"></a>
+<a class="image" href="../../../_images/kb/docs/java/newbutton.png"><img src="../../../_images/kb/docs/java/newbutton-small.png" alt="newbutton small"></a>
 </div>
 </div>
 </div>
@@ -894,6 +894,10 @@ To rename the button, complete the following steps:</p>
     <script src="../../../../../_/js/netbeans.js"></script>
     <script>
        $(function(){ $(document).foundation(); });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js"></script>
+    <script>
+      $(document).ready(function() { $("pre code").each(function(i, block) { hljs.highlightBlock(block); }); });
     </script>
   </body>
 </html>

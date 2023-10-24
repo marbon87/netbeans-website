@@ -11,7 +11,7 @@
     <meta name="generator" content="Apache NetBeans">
     <link rel="stylesheet" href="../../../../../_/css/font-awesome.min.css">
     <link rel="alternate" type="application/atom+xml" title="Apache NetBeans Blog" href="https://netbeans.apache.org/blogs/atom" />
-    
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/default.min.css">
     <link rel="stylesheet" href="../../../../../_/css/netbeans.css">
     <link rel="apple-touch-icon" sizes="180x180" href="../../../../../_/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../../../../../_/images/fav/favicon-32x32.png">
@@ -154,9 +154,9 @@
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/platform.png"><img src="../../../_images/kb/docs/java/platform-small.png" alt="platform small"></a>
+<a class="image" href="../../../_images/kb/docs/java/platform.png"><img src="../../../_images/kb/docs/java/platform-small.png" alt="platform small"></a>
 </div>
 </div>
 </div>
@@ -197,9 +197,9 @@
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/props-libs.png"><img src="../../../_images/kb/docs/java/props-libs-small.png" alt="props libs small"></a>
+<a class="image" href="../../../_images/kb/docs/java/props-libs.png"><img src="../../../_images/kb/docs/java/props-libs-small.png" alt="props libs small"></a>
 </div>
 </div>
 </div>
@@ -213,9 +213,9 @@
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/props-sources.png"><img src="../../../_images/kb/docs/java/props-sources-small.png" alt="props sources small"></a>
+<a class="image" href="../../../_images/kb/docs/java/props-sources.png"><img src="../../../_images/kb/docs/java/props-sources-small.png" alt="props sources small"></a>
 </div>
 </div>
 </div>
@@ -295,9 +295,9 @@ You can immediately see that the JDK6 parser does not recognize the syntax. The 
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/error.png"><img src="../../../_images/kb/docs/java/error-small.png" alt="error small"></a>
+<a class="image" href="../../../_images/kb/docs/java/error.png"><img src="../../../_images/kb/docs/java/error-small.png" alt="error small"></a>
 </div>
 </div>
 </div>
@@ -340,9 +340,9 @@ You can immediately see that the JDK6 parser does not recognize the syntax. The 
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/convert.png"><img src="../../../_images/kb/docs/java/convert-small.png" alt="convert small"></a>
+<a class="image" href="../../../_images/kb/docs/java/convert.png"><img src="../../../_images/kb/docs/java/convert-small.png" alt="convert small"></a>
 </div>
 </div>
 </div>
@@ -442,9 +442,9 @@ public class SwitchTest {
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/converted.png"><img src="../../../_images/kb/docs/java/converted-small.png" alt="converted small"></a>
+<a class="image" href="../../../_images/kb/docs/java/converted.png"><img src="../../../_images/kb/docs/java/converted-small.png" alt="converted small"></a>
 </div>
 </div>
 </div>
@@ -594,6 +594,10 @@ public class SwitchTest {
     <script src="../../../../../_/js/netbeans.js"></script>
     <script>
        $(function(){ $(document).foundation(); });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js"></script>
+    <script>
+      $(document).ready(function() { $("pre code").each(function(i, block) { hljs.highlightBlock(block); }); });
     </script>
   </body>
 </html>

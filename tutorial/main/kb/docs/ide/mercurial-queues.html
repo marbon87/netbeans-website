@@ -11,7 +11,7 @@
     <meta name="generator" content="Apache NetBeans">
     <link rel="stylesheet" href="../../../../../_/css/font-awesome.min.css">
     <link rel="alternate" type="application/atom+xml" title="Apache NetBeans Blog" href="https://netbeans.apache.org/blogs/atom" />
-    
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/default.min.css">
     <link rel="stylesheet" href="../../../../../_/css/netbeans.css">
     <link rel="apple-touch-icon" sizes="180x180" href="../../../../../_/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../../../../../_/images/fav/favicon-32x32.png">
@@ -152,9 +152,9 @@ The Create Patch dialog box displays.</p>
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/create-patch.png"><img src="../../../_images/kb/docs/ide/create-patch-small.png" alt="create patch small"></a>
+<a class="image" href="../../../_images/kb/docs/ide/create-patch.png"><img src="../../../_images/kb/docs/ide/create-patch-small.png" alt="create patch small"></a>
 </div>
 </div>
 </div>
@@ -224,9 +224,9 @@ The Refresh Patch dialog box displays.</p>
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/refresh-patch.png"><img src="../../../_images/kb/docs/ide/refresh-patch-small.png" alt="refresh patch small"></a>
+<a class="image" href="../../../_images/kb/docs/ide/refresh-patch.png"><img src="../../../_images/kb/docs/ide/refresh-patch-small.png" alt="refresh patch small"></a>
 </div>
 </div>
 </div>
@@ -293,9 +293,9 @@ The Diff Viewer displays differences found in the current patch and all your unc
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/qdiff.png"><img src="../../../_images/kb/docs/ide/qdiff-small.png" alt="qdiff small"></a>
+<a class="image" href="../../../_images/kb/docs/ide/qdiff.png"><img src="../../../_images/kb/docs/ide/qdiff-small.png" alt="qdiff small"></a>
 </div>
 </div>
 </div>
@@ -602,6 +602,10 @@ The IDE turns all applied patches up to the selected patch into regular changese
     <script src="../../../../../_/js/netbeans.js"></script>
     <script>
        $(function(){ $(document).foundation(); });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js"></script>
+    <script>
+      $(document).ready(function() { $("pre code").each(function(i, block) { hljs.highlightBlock(block); }); });
     </script>
   </body>
 </html>

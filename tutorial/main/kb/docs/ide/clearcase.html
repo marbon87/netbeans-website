@@ -11,7 +11,7 @@
     <meta name="generator" content="Apache NetBeans">
     <link rel="stylesheet" href="../../../../../_/css/font-awesome.min.css">
     <link rel="alternate" type="application/atom+xml" title="Apache NetBeans Blog" href="https://netbeans.apache.org/blogs/atom" />
-    
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/default.min.css">
     <link rel="stylesheet" href="../../../../../_/css/netbeans.css">
     <link rel="apple-touch-icon" sizes="180x180" href="../../../../../_/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../../../../../_/images/fav/favicon-32x32.png">
@@ -126,9 +126,9 @@ To get the NetBeans ClearCase plugin, go to the Plugin Manager in the IDE (Tools
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/cc-plugin.png"><img src="../../../_images/kb/docs/ide/cc-plugin-small.png" alt="cc plugin small"></a>
+<a class="image" href="../../../_images/kb/docs/ide/cc-plugin.png"><img src="../../../_images/kb/docs/ide/cc-plugin-small.png" alt="cc plugin small"></a>
 </div>
 </div>
 </div>
@@ -185,9 +185,9 @@ A limitation for *nix-like systems is that you have to start the IDE from a dyna
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/cc-options.jpg"><img src="../../../_images/kb/docs/ide/cc-options-small.jpg" alt="cc options small"></a>
+<a class="image" href="../../../_images/kb/docs/ide/cc-options.jpg"><img src="../../../_images/kb/docs/ide/cc-options-small.jpg" alt="cc options small"></a>
 </div>
 </div>
 </div>
@@ -296,9 +296,9 @@ Upon creation, the IDE automatically recognizes that the project is in a view an
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/add-dialog.jpg"><img src="../../../_images/kb/docs/ide/add-dialog-small.jpg" alt="add dialog small"></a>
+<a class="image" href="../../../_images/kb/docs/ide/add-dialog.jpg"><img src="../../../_images/kb/docs/ide/add-dialog-small.jpg" alt="add dialog small"></a>
 </div>
 </div>
 </div>
@@ -416,7 +416,7 @@ From the Add dialog, it is possible to specify whether to exclude individual fil
 <td class="tableblock halign-left valign-top"><div class="content"><div class="openblock feature">
 <div class="content">
 <div class="paragraph">
-<p><span class="image left"><a class="image" href="images/left-ui.png"><img src="../../../_images/kb/docs/ide/left-ui-small.png" alt="left ui small"></a></span></p>
+<p><span class="image xref-image left"><a class="image" href="../../../_images/kb/docs/ide/left-ui.png"><img src="../../../_images/kb/docs/ide/left-ui-small.png" alt="left ui small"></a></span></p>
 </div>
 </div>
 </div></div></td>
@@ -571,9 +571,9 @@ From the Add dialog, it is possible to specify whether to exclude individual fil
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/versioning-window.jpg"><img src="../../../_images/kb/docs/ide/versioning-window-small.jpg" alt="versioning window small"></a>
+<a class="image" href="../../../_images/kb/docs/ide/versioning-window.jpg"><img src="../../../_images/kb/docs/ide/versioning-window-small.jpg" alt="versioning window small"></a>
 </div>
 </div>
 </div>
@@ -645,7 +645,7 @@ From the Add dialog, it is possible to specify whether to exclude individual fil
 <td class="tableblock halign-left valign-top"><div class="content"><div class="openblock feature">
 <div class="content">
 <div class="paragraph">
-<p><span class="image left"><a class="image" href="images/annotations.jpg"><img src="../../../_images/kb/docs/ide/annotations-small.jpg" alt="annotations small"></a></span></p>
+<p><span class="image xref-image left"><a class="image" href="../../../_images/kb/docs/ide/annotations.jpg"><img src="../../../_images/kb/docs/ide/annotations-small.jpg" alt="annotations small"></a></span></p>
 </div>
 </div>
 </div></div></td>
@@ -671,9 +671,9 @@ From the Add dialog, it is possible to specify whether to exclude individual fil
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/diff-viewer.jpg"><img src="../../../_images/kb/docs/ide/diff-viewer-small.jpg" alt="diff viewer small"></a>
+<a class="image" href="../../../_images/kb/docs/ide/diff-viewer.jpg"><img src="../../../_images/kb/docs/ide/diff-viewer-small.jpg" alt="diff viewer small"></a>
 </div>
 </div>
 </div>
@@ -781,9 +781,9 @@ From the Add dialog, it is possible to specify whether to exclude individual fil
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/checkin-dialog.png"><img src="../../../_images/kb/docs/ide/checkin-dialog-small.png" alt="checkin dialog small"></a>
+<a class="image" href="../../../_images/kb/docs/ide/checkin-dialog.png"><img src="../../../_images/kb/docs/ide/checkin-dialog-small.png" alt="checkin dialog small"></a>
 </div>
 </div>
 </div>
@@ -916,6 +916,10 @@ From the Add dialog, it is possible to specify whether to exclude individual fil
     <script src="../../../../../_/js/netbeans.js"></script>
     <script>
        $(function(){ $(document).foundation(); });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js"></script>
+    <script>
+      $(document).ready(function() { $("pre code").each(function(i, block) { hljs.highlightBlock(block); }); });
     </script>
   </body>
 </html>

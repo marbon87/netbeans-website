@@ -11,7 +11,7 @@
     <meta name="generator" content="Apache NetBeans">
     <link rel="stylesheet" href="../../../../../_/css/font-awesome.min.css">
     <link rel="alternate" type="application/atom+xml" title="Apache NetBeans Blog" href="https://netbeans.apache.org/blogs/atom" />
-    
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/default.min.css">
     <link rel="stylesheet" href="../../../../../_/css/netbeans.css">
     <link rel="apple-touch-icon" sizes="180x180" href="../../../../../_/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../../../../../_/images/fav/favicon-32x32.png">
@@ -189,9 +189,9 @@ The sample form opens in the GUI Builder Design view.</p>
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/sampleform.png"><img src="../../../_images/kb/docs/java/sampleform-small.png" alt="sampleform small"></a>
+<a class="image" href="../../../_images/kb/docs/java/sampleform.png"><img src="../../../_images/kb/docs/java/sampleform-small.png" alt="sampleform small"></a>
 </div>
 </div>
 </div>
@@ -220,9 +220,9 @@ The Customize Layout dialog box opens as shown below.</p>
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/customizerdialog.png"><img src="../../../_images/kb/docs/java/customizerdialog-small.png" alt="customizerdialog small"></a>
+<a class="image" href="../../../_images/kb/docs/java/customizerdialog.png"><img src="../../../_images/kb/docs/java/customizerdialog-small.png" alt="customizerdialog small"></a>
 </div>
 </div>
 </div>
@@ -316,9 +316,9 @@ The components in the sample form are already added but not laid out correctly.<
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/layout1.png"><img src="../../../_images/kb/docs/java/layout1-small.png" alt="layout1 small"></a>
+<a class="image" href="../../../_images/kb/docs/java/layout1.png"><img src="../../../_images/kb/docs/java/layout1-small.png" alt="layout1 small"></a>
 </div>
 </div>
 </div>
@@ -362,9 +362,9 @@ When a component is moved the target cells are highlighted with green.
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/tfieldsresized.png"><img src="../../../_images/kb/docs/java/tfieldsresized-small.png" alt="tfieldsresized small"></a>
+<a class="image" href="../../../_images/kb/docs/java/tfieldsresized.png"><img src="../../../_images/kb/docs/java/tfieldsresized-small.png" alt="tfieldsresized small"></a>
 </div>
 </div>
 </div>
@@ -380,9 +380,9 @@ When a component is moved the target cells are highlighted with green.
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/horizontalset.png"><img src="../../../_images/kb/docs/java/horizontalset-small.png" alt="horizontalset small"></a>
+<a class="image" href="../../../_images/kb/docs/java/horizontalset.png"><img src="../../../_images/kb/docs/java/horizontalset-small.png" alt="horizontalset small"></a>
 </div>
 </div>
 </div>
@@ -485,9 +485,9 @@ When two components in a row (or column) have a non-zero value of Weight X (or W
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/comboanchored.png"><img src="../../../_images/kb/docs/java/comboanchored-small.png" alt="comboanchored small"></a>
+<a class="image" href="../../../_images/kb/docs/java/comboanchored.png"><img src="../../../_images/kb/docs/java/comboanchored-small.png" alt="comboanchored small"></a>
 </div>
 </div>
 </div>
@@ -564,9 +564,9 @@ The labels are anchored to the left.</p>
 </div>
 <div class="openblock feature">
 <div class="content">
-<div class="imageblock left">
+<div class="imageblock xref-image left">
 <div class="content">
-<a class="image" href="images/contactsbasicfinal.png"><img src="../../../_images/kb/docs/java/contactsbasicfinal-small.png" alt="contactsbasicfinal small"></a>
+<a class="image" href="../../../_images/kb/docs/java/contactsbasicfinal.png"><img src="../../../_images/kb/docs/java/contactsbasicfinal-small.png" alt="contactsbasicfinal small"></a>
 </div>
 </div>
 </div>
@@ -706,6 +706,10 @@ You can now go to the second in a two-part series tutorial where you will modify
     <script src="../../../../../_/js/netbeans.js"></script>
     <script>
        $(function(){ $(document).foundation(); });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js"></script>
+    <script>
+      $(document).ready(function() { $("pre code").each(function(i, block) { hljs.highlightBlock(block); }); });
     </script>
   </body>
 </html>
